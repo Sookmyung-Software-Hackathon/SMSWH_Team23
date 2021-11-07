@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "87679135754",
+    "firebase_url": "https://smsw-4ed45-default-rtdb.firebaseio.com",
+    "project_id": "smsw-4ed45",
+    "storage_bucket": "smsw-4ed45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87679135754:android:3be64cfa988d80bb94aff3",
+        "android_client_info": {
+          "package_name": "org.techtown.smsw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87679135754-3impa8ufimbadcltjdboll3ue94tjjfb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnWML-c6IFCUUdkcON0xDG2syOhJOXLZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87679135754-3impa8ufimbadcltjdboll3ue94tjjfb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,2 @@
+rootProject.name = "smsw"
+include ':app'
